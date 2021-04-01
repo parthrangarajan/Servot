@@ -3,15 +3,15 @@ This is my first public bot in Discord.
 Discord is an instant messaging and digital distibution platform. Chatting is generally done through a certain user creating a server where he/she can invite all their family, friend
 or co-workers.
 
-The main idea behind creating Servot was to tackle the growing depression among people today. With the pandemic not seeming to slow down and with the slow-down in full force, more-and-more people have been plunged into the depths of darkness. Servot is an earnest attempt to lighten the mood and the entire scene in general.
+The main idea behind creating Servot was to tackle the growing depression among people today. With the pandemic not seeming to slow down and with the economic slow-down in full force, more-and-more people either have been or are more likely to be plunged into the depths of darkness. Servot is an earnest attempt to lighten the mood and the entire scene in general.
 
-Servot has a few commands like :
+Servot has a few commands which are :
 1.$hello
 2.$introduce
 3.$inspire
 4.$joke
 
-These commands need to be typed in by the user as they are. Servto also intelligently realises when a person has typed in a sad comment (eg:"I am feeling sad") and then renders a happy, refreshing quote in an attempt to make the person feel better.
+These commands need to be typed in by the user as they are. **Servot also intelligently realises when a person has typed in a sad comment (eg:"I am feeling sad") and then renders a happy, refreshing quote in an attempt to make the person feel better.**
 
 Servot uses 3 free apis :\
 1.*zenquotes.io* ; To render an inspirational quote\
