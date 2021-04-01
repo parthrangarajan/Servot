@@ -11,7 +11,7 @@ Servot has a few commands which are :
 3.$inspire
 4.$joke
 
-These commands need to be typed in by the user as they are. **Servot also intelligently realises when a person has typed in a sad comment (eg:"I am feeling sad") and then renders a happy, refreshing quote in an attempt to make the person feel better.**
+*These commands need to be typed in by the user as they are*.   **Servot also intelligently realises when a person has typed in a sad comment (eg:"I am feeling sad") and then renders a happy, refreshing quote in an attempt to make the person feel better.**
 
 Servot uses 3 free apis :\
 1.*zenquotes.io* ; To render an inspirational quote\
