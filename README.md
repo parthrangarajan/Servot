@@ -1,5 +1,5 @@
 # Servot
-This is my first service bot in Discord.
+This is my first public bot in Discord.
 Discord is an instant messaging and digital distibution platform. Chatting is generally done through a certain user creating a server where he/she can invite all their family, friend
 or co-workers.
 
@@ -11,12 +11,12 @@ Servot has a few commands like :
 3.$inspire
 4.$joke
 
-These commands need to be typed in by the user as they are. Servto also intelligently realises when a person has typed in a sad comment(eg:"I am feeling sad") and then renders a happy, refreshing quote in an attempt to make the person feel better.
+These commands need to be typed in by the user as they are. Servto also intelligently realises when a person has typed in a sad comment (eg:"I am feeling sad") and then renders a happy, refreshing quote in an attempt to make the person feel better.
 
 Servot uses 3 free apis :\
 1.*zenquotes.io* ; To render an inspirational quote\
 2.*official-joke-api.appspot.com*;To render a joke\
 3.*type.fit*; To render an encouraging quote when a person is feeling a little under the weather
 
-I hope this will make users of the bot will feel atleast a little better.
+I hope this will make users of the bot feel atleast a little better.\
 Find Servot living in this server: https://discord.gg/hnJTsq6Pyx 
